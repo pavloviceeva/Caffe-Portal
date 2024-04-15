@@ -50,6 +50,4 @@
     </footer>
 </body>
 </html>
-```
-
-Umetnite svoje slike umesto "slika1.jpg", "slika2.jpg", itd. Takođe, možete dodati Google Mapu u podnožje (footer) sajta. Nakon što unesete sve slike i adresu kafića, javite mi da vam pomognem sa Google Mapom.
+```.
